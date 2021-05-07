@@ -1,0 +1,42 @@
+Monday-Breakfast: 2 pieces of wholewheat bread; 1 boiled egg; 30g creal; 80g milk;
+338
+Monday-Lunch: 215g chicken breast; 185g broccoli; 9g oil; 60g rice;
+525
+Monday-dinner: 165g cod fish; 230g salad; 7g oil; 50g rice;
+468
+Tuesday-breakfast: 60g oatmeal; 120g milk; 1 boiled egg; 10 pieces cherry tomato;
+352
+Thesday-lunch: 150g beef; 120g carrot; 9g oil; 60g rice;
+565
+Tuesday-dinner: 180g shrimp; 200g salad; 7g oil; 50g rice;
+445
+Wednesday-breakfast: 1 piece of corn; 1 scrambled egg; 5g oil; 1 piece of cucumber;
+348
+Wednesday-lunch: 160g salmon; 120g asparagus; 9g oil; 60g rice;
+552
+Wednesday-dinner: 180g chicken breast; 200g salad; 7g oil; 50g rice;
+436
+Thursday-breakfast: 1 piece of sweet potato; 1 scrambled egg; 10 pieces of baby carrot; 5g oil;
+365
+Thursday-lunch: 220g cod fish; 180g broccoli; 9g oil; 60g rice;
+526
+Thursday-dinner: 120g beef; 220g salad; 7g oil; 50g rice;
+485
+Friday-breakfast: 1 piece of pancake; 85g milk; 1 boiled egg; 10 pieces cherry tomatos;
+354
+Friday-lunch: 240g shrimp; 180g napa cabbage; 9g oil; 60g rice;
+544
+Friday-dinner: 160g chicken leg; 200g salad; 7g oil; 50g rice;
+482
+Saturday-breakfast: 2 pieces of waffle; 80g milk; 1 scrambled egg; 5g oil;
+372
+Saturday-lunch: 185g salmon; 120g green beans; 9g oil; 60g rice;
+521
+Saturday-dinner: 150g beef; 180g salad; 7g oil; 50g rice;
+475
+Sunday-breakfast: 50g oatmeal; 100g milk; 1 boiled egg; 1 piece of cucumber;
+355
+Sunday-lunch: 220g cod fish; 120g carrot; 9g oil; 60g rice;
+562
+Sunday-dinner: 240g shrimp; 180g salad; 7g oil; 50g rice;
+465
